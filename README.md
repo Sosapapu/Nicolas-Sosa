@@ -8,4 +8,4 @@ Soy un desarrollador en proceso de aprendizaje, proveniente de Cordoba, Argentin
 -  https://github.com/Sosapapu/github3.github.io
 -  
 ## Puedes encontrarme en:
-- [Instagram](https://www.instagram.com/batata.sosa/)![image](https://github.com/Sosapapu/Nicolas-Sosa/assets/140737842/661d8f6e-af30-4c88-a74d-f2f6a6c06a0d)
+- [Instagram](https://www.instagram.com/batata.sosa/)
